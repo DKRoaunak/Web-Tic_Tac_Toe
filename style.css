@@ -58,6 +58,7 @@ body {
     box-shadow: 0 0 1rem rgba(205, 205, 205, 0.2);
 }
 
+/* 
 .btn{
    padding: 1rem 2rem;
     color: rgb(218, 239, 179);
@@ -71,11 +72,10 @@ body {
 
 .btn:hover{
     border: none;
-    /* background-color: rgb(204, 47, 60); */
     scale: calc(1.1);
     transition: scale 0.2s ease-in-out;
     box-shadow: 0 0 1rem rgba(205, 205, 205, 0.2);
-}
+} */
 
 
 .box {
