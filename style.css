@@ -57,27 +57,6 @@ body {
     transition: scale 0.2s ease-in-out;
     box-shadow: 0 0 1rem rgba(205, 205, 205, 0.2);
 }
-
-/* 
-.btn{
-   padding: 1rem 2rem;
-    color: rgb(218, 239, 179);
-    border-radius: 3rem;
-    border: none;
-    margin-left: 30px;
-    font-size: 1rem;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
-    background-color: rgb(216, 15, 32);   
-}
-
-.btn:hover{
-    border: none;
-    scale: calc(1.1);
-    transition: scale 0.2s ease-in-out;
-    box-shadow: 0 0 1rem rgba(205, 205, 205, 0.2);
-} */
-
-
 .box {
     margin: 0.8vmin;
     height: 18vmin;
